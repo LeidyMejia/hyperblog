@@ -12,5 +12,6 @@
 - El flujo de trabajo de Github ✔️
 - Como tener buenas practicas de trabajo ✔️
 - Incluye ejemplo en windows,Linux y Mac ✔️
+- Disponible para todas las edades ✔️
 
 No pares de aprender NUNCA
