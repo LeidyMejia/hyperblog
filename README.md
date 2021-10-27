@@ -11,5 +11,6 @@
 - Todos los comandos de Git ✔️
 - El flujo de trabajo de Github ✔️
 - Como tener buenas practicas de trabajo ✔️
+- Incluye ejemplo en windows,Linux y Mac ✔️
 
 No pares de aprender NUNCA
